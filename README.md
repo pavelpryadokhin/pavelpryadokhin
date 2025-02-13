@@ -4,7 +4,7 @@
 -------------------
 🌍 Я живу в Санкт-Петербурге  
 👨‍🎓 Учусь в академии нейросетей [The Founder](https://academy.the-founder.ru/)  
-📞 Вы можете связаться со мной по TG: [@pavel_pryadokhin](https://t.me/@pavel_pryadokhin)
+📞 Вы можете связаться со мной по TG: [@pavel_pryadokhin](https://t.me/@pavel_pryadokhin)    
 💻 Сайт портфоило [pavelpryadokhin](https://pavelpryadokhin.github.io/)
 
 ---
