@@ -27,6 +27,11 @@ ___
 
 **Стек:** YOLO.
 
+### Прогноз реализованного товара
+По различным показателям прогнозируется объем реализованной продукции. [**ссылка на проект**](https://github.com/pavelpryadokhin/Testea)
+
+**Стек:** xgboost, Ridge, catboost, FC, optuna.
+
 ### BERT|GPT
 Работа с Bert(классификация заголовков), и GPT-2(дообучен писать заголовки к русскоязычным статьям)
 [**ссылка на проект**](https://github.com/pavelpryadokhin/Transformer-BERT-GPT)
@@ -45,11 +50,6 @@ ___
 Сервис анализирует и делает прогноз на следующий день. [**ссылка на проект**](https://github.com/pavelpryadokhin/Stock-forecast)
 
 **Стек:** FastAPI, streamlit
-
-### Прогноз реализованного товара
-По различным показателям прогнозируется объем реализованной продукции. [**ссылка на проект**](https://github.com/pavelpryadokhin/Testea)
-
-**Стек:** xgboost, Ridge, catboost, FC, optuna.
 
 _____
 
