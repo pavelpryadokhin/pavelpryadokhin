@@ -36,9 +36,6 @@ ___
 
 **Стек:** Python,keras,kerastuner.
 
-### Writer forecast
-Этот проект предлагает вам узнать, с каким русским писателем вы ближе всего по стилю письма.[**ссылка на проект**](https://github.com/pavelpryadokhin/Classification)
-
 ### AI-путеводитель
 Бот представляет собой собой AI-путеводитель по Санкт-Петербургу. Использована aiogram для связи с Telegram API и модель ChatGPT, чтобы предоставлять точные и исчерпывающие ответы. [**ссылка на проект**](https://github.com/pavelpryadokhin/Telegram-BOT-ChatGPT)
 
