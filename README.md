@@ -40,6 +40,11 @@ ___
 
 **Стек:** Whisper, SpeechRecognition, librosa, transformers
 
+### AIchat
+Чат-приложение, использующее API OpenRouter для взаимодействия с различными моделями искусственного интеллекта.
+
+**Стек:** Flet, asyncio  [**ссылка на проект**](https://github.com/pavelpryadokhin/AIchat)
+
 ### Прогноз реализованного товара
 По различным показателям прогнозируется объем реализованной продукции. [**ссылка на проект**](https://github.com/pavelpryadokhin/Testea)
 
