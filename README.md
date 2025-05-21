@@ -40,10 +40,14 @@ ___
 
 **Стек:** Whisper, SpeechRecognition, librosa, transformers
 
-### AIchat
-Чат-приложение, использующее API OpenRouter для взаимодействия с различными моделями искусственного интеллекта.
+### AI-chat_Flutter
+Мультиплатформенное приложение для общения с искусственным интеллектом, разработанное с использованием Flutter.
 
+**Стек:** Flutter, Dart  [**ссылка на проект**](https://github.com/pavelpryadokhin/AI-chat_Flutter)
+
+**Есть упращенная версия на Flet:**
 **Стек:** Flet, asyncio  [**ссылка на проект**](https://github.com/pavelpryadokhin/AIchat)
+
 
 ### Прогноз реализованного товара
 По различным показателям прогнозируется объем реализованной продукции. [**ссылка на проект**](https://github.com/pavelpryadokhin/Testea)
