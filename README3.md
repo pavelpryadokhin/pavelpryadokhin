@@ -19,7 +19,7 @@ ML/DL инженер с глубокими знаниями в разработ�
 
 | Область | Технологии и инструменты |
 |---------|--------------------------|
-| **Языки программирования** | Python (продвинутый), Dart/Flutter, JavaScript/TypeScript |
+| **Языки программирования** | Python (продвинутый),С++, Dart/Flutter, JavaScript/TypeScript |
 | **ML/DL Фреймворки** | TensorFlow, PyTorch, sklearn, XGBoost, LightGBM, CatBoost |
 | **LLM/GenAI** | RAG-системы, LangChain, LlamaIndex, HuggingFace Transformers, OpenAI API, Gemini API |
 | **Компьютерное зрение** | YOLO (все версии), OpenCV, TorchVision, MediaPipe |
