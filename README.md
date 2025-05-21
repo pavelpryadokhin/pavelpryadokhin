@@ -46,7 +46,7 @@ ___
 **Стек:** Flutter, Dart  [**ссылка на проект**](https://github.com/pavelpryadokhin/AI-chat_Flutter)
 
 **Есть упращенная версия на Flet:**
-**Стек:** Flet, asyncio  [**ссылка на проект**](https://github.com/pavelpryadokhin/AIchat)
+[**ссылка на проект**](https://github.com/pavelpryadokhin/AIchat)
 
 
 ### Прогноз реализованного товара
